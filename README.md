@@ -1,2 +1,0 @@
-# emily-walsh
-parasite distribution
